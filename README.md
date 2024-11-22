@@ -1,0 +1,1 @@
+Admin command to teleport into a player's vehicle. Set up to use ND_Core groups to check for admin. Can easily be modified to work with other framework or aceperms if you desire. Usage: /tvehicle [target playerID]
